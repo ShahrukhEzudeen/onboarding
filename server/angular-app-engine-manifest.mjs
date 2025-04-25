@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://ShahrukhEzudeen.github.io/PaymentGateways',
+  basePath: 'https://ShahrukhEzudeen.github.io/PaymenyGateways',
   supportedLocales: {
   "en-US": ""
 },
