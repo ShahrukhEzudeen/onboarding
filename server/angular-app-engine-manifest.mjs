@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://ShahrukhEzudeen.github.io/PaymenyGateways',
+  basePath: 'https://ShahrukhEzudeen.github.io/onboarding',
   supportedLocales: {
   "en-US": ""
 },
